@@ -1,5 +1,7 @@
 # == Schema Information
 #
+# Replace text of body-id div
+
 # Table name: authors
 #
 #  id         :integer          not null, primary key
